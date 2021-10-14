@@ -17,7 +17,10 @@ body{
     margin: 35px auto 20px;
     border-radius: 50%;
 }
-
+h4 { 
+color: black;
+font-family: var(--font);
+}
 #userName{
     color: #bbb;
     font-size: 1rem;
