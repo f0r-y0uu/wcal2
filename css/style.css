@@ -65,7 +65,7 @@ font-family: var(--font);
 .link{
     display: block;
     background-color: var(--accentColor);
-    color: var(--bgColor);
+    color: var(--fontColor);
     font-family: var(--font);
     text-align: center;
     margin-bottom: 20px;
