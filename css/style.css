@@ -4,6 +4,7 @@
     --bgColor: white;
     --accentColor: #00ffff;
     --font: 'Karla', sans-serif;
+    --fontColor: black;
 }
 
 html, body {
